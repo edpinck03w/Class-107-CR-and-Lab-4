@@ -1,0 +1,20 @@
+.hidden{
+    display: none;
+}
+
+.design{
+    border: 1px solid rgb(185, 182, 182);
+    padding: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 1%;
+    background-color: rgba(215, 216, 233, 0.301);
+}
+
+.format{
+    text-align: center;
+}
+
+.store{
+    background-color: rgba(85, 85, 88, 0.301);
+}
